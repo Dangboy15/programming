@@ -1,5 +1,5 @@
 # Programming Project Proposal 1
-A description of the proect.
+Explosion sudoku! its like normal sudoku but when the player gets a wrong number it will explode and erase the numbers in that box
 
 ## GUI Mockup #1 (Start Screen)
 ![Start Screen]()
